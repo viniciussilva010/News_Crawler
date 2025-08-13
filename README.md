@@ -21,8 +21,7 @@ pip install pygooglenews
 ## Como Usar
 **Clone o repositório:**
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
+git clone https://github.com/viniciussilva010/News_Crawler
 ```
 ## Configuração da Busca:
 
