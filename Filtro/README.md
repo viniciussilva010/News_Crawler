@@ -19,4 +19,4 @@ Teste 1 (Limite = 0.50): Este valor se mostrou muito restritivo. Ele capturou ap
 Teste 2 (Limite = 0.40): Ao reduzir o limite, encontramos o ponto de equilíbrio ideal. O filtro foi capaz de classificar corretamente títulos mais complexos (ex: Google conserta seu algoritmo “racista”) e capturou 5.122 (59,68%) dos títulos. Este ajuste removeu com sucesso 40,32% do ruído, retendo o núcleo de artigos pertinentes.
 
 **Resultado Final:**
-O resultado desta fase é o arquivo noticias_corpus_filtrado_semantico_040.csv. Este é o corpus de dados final e limpo, que serve como base para todas as análises subsequentes (temporal, de sentimentos, etc.)
+O resultado desta fase é o arquivo noticias_corpus_filtrado_semantico_2.csv. Este é o corpus de dados final e limpo, que serve como base para todas as análises subsequentes (temporal, de sentimentos, etc.)
